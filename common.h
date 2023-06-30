@@ -25,7 +25,7 @@ bool isNumber(char c) {
 }
 
 char *readLine(FILE *file_ptr) {
-    char *line = malloc(sizeof(char)*LINE_CAP);
+    char *line = (char *)malloc(sizeof(char)*LINE_CAP);
     memset(line, '\0', sizeof(char)*LINE_CAP);
     int i = 0;
     char c = '\0';
@@ -38,7 +38,7 @@ char *readLine(FILE *file_ptr) {
 }
 
 char *readWord(FILE *file_ptr) {
-    char *word = malloc(sizeof(char) * WORD_CAP);
+    char *word = (char *)malloc(sizeof(char) * WORD_CAP);
     memset(word, '\0', sizeof(char)*WORD_CAP);
     char c = '\0'; 
     int i = 0;
