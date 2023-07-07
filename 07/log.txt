@@ -1,0 +1,149 @@
+comparing $ cd / to $: 0
+$ cd /
+comparing $ ls to $: 0
+$ ls
+comparing dir a to $: 64
+comparing ir a to $: 69
+comparing r a to $: 78
+comparing  a to $: -4
+comparing a to $: 61
+comparing  to $: -36
+comparing 14848514 b.txt to $: 13
+comparing 4848514 b.txt to $: 16
+comparing 848514 b.txt to $: 20
+comparing 48514 b.txt to $: 16
+comparing 8514 b.txt to $: 20
+comparing 514 b.txt to $: 17
+comparing 14 b.txt to $: 13
+comparing 4 b.txt to $: 16
+comparing  b.txt to $: -4
+comparing b.txt to $: 62
+comparing .txt to $: 10
+comparing txt to $: 80
+comparing xt to $: 84
+comparing t to $: 80
+comparing  to $: -36
+comparing 8504156 c.dat to $: 20
+comparing 504156 c.dat to $: 17
+comparing 04156 c.dat to $: 12
+comparing 4156 c.dat to $: 16
+comparing 156 c.dat to $: 13
+comparing 56 c.dat to $: 17
+comparing 6 c.dat to $: 18
+comparing  c.dat to $: -4
+comparing c.dat to $: 63
+comparing .dat to $: 10
+comparing dat to $: 64
+comparing at to $: 61
+comparing t to $: 80
+comparing  to $: -36
+comparing dir d to $: 64
+comparing ir d to $: 69
+comparing r d to $: 78
+comparing  d to $: -4
+comparing d to $: 64
+comparing  to $: -36
+comparing $ cd a to $: 0
+$ cd a
+comparing $ ls to $: 0
+$ ls
+comparing dir e to $: 64
+comparing ir e to $: 69
+comparing r e to $: 78
+comparing  e to $: -4
+comparing e to $: 65
+comparing  to $: -36
+comparing 29116 f to $: 14
+comparing 9116 f to $: 21
+comparing 116 f to $: 13
+comparing 16 f to $: 13
+comparing 6 f to $: 18
+comparing  f to $: -4
+comparing f to $: 66
+comparing  to $: -36
+comparing 2557 g to $: 14
+comparing 557 g to $: 17
+comparing 57 g to $: 17
+comparing 7 g to $: 19
+comparing  g to $: -4
+comparing g to $: 67
+comparing  to $: -36
+comparing 62596 h.lst to $: 18
+comparing 2596 h.lst to $: 14
+comparing 596 h.lst to $: 17
+comparing 96 h.lst to $: 21
+comparing 6 h.lst to $: 18
+comparing  h.lst to $: -4
+comparing h.lst to $: 68
+comparing .lst to $: 10
+comparing lst to $: 72
+comparing st to $: 79
+comparing t to $: 80
+comparing  to $: -36
+comparing $ cd e to $: 0
+$ cd e
+comparing $ ls to $: 0
+$ ls
+comparing 584 i to $: 17
+comparing 84 i to $: 20
+comparing 4 i to $: 16
+comparing  i to $: -4
+comparing i to $: 69
+comparing  to $: -36
+comparing $ cd .. to $: 0
+$ cd ..
+comparing $ cd .. to $: 0
+$ cd ..
+comparing $ cd d to $: 0
+$ cd d
+comparing $ ls to $: 0
+$ ls
+comparing 4060174 j to $: 16
+comparing 060174 j to $: 12
+comparing 60174 j to $: 18
+comparing 0174 j to $: 12
+comparing 174 j to $: 13
+comparing 74 j to $: 19
+comparing 4 j to $: 16
+comparing  j to $: -4
+comparing j to $: 70
+comparing  to $: -36
+comparing 8033020 d.log to $: 20
+comparing 033020 d.log to $: 12
+comparing 33020 d.log to $: 15
+comparing 3020 d.log to $: 15
+comparing 020 d.log to $: 12
+comparing 20 d.log to $: 14
+comparing 0 d.log to $: 12
+comparing  d.log to $: -4
+comparing d.log to $: 64
+comparing .log to $: 10
+comparing log to $: 72
+comparing og to $: 75
+comparing g to $: 67
+comparing  to $: -36
+comparing 5626152 d.ext to $: 17
+comparing 626152 d.ext to $: 18
+comparing 26152 d.ext to $: 14
+comparing 6152 d.ext to $: 18
+comparing 152 d.ext to $: 13
+comparing 52 d.ext to $: 17
+comparing 2 d.ext to $: 14
+comparing  d.ext to $: -4
+comparing d.ext to $: 64
+comparing .ext to $: 10
+comparing ext to $: 65
+comparing xt to $: 84
+comparing t to $: 80
+comparing  to $: -36
+comparing 7214296 kÿ to $: 19
+comparing 214296 kÿ to $: 14
+comparing 14296 kÿ to $: 13
+comparing 4296 kÿ to $: 16
+comparing 296 kÿ to $: 14
+comparing 96 kÿ to $: 21
+comparing 6 kÿ to $: 18
+comparing  kÿ to $: -4
+comparing kÿ to $: 71
+comparing ÿ to $: 219
+comparing  to $: -36

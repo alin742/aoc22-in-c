@@ -34,6 +34,7 @@ char *readLine(FILE *file_ptr) {
         if (i > 0 && c == '\n') break;
         line[i++] = c;
     }
+    line[i] = '\0';
     return &line[0];
 }
 
@@ -47,7 +48,19 @@ char *readWord(FILE *file_ptr) {
         if (c == ' ' || c == '\n') break;
         word[i++] = c;
     }
+    word[i] = '\0';
     return word;
+}
+
+int contains(char *line, char *buff, int buff_sz) {
+    int i = 0;
+    while (line[i+buff_sz] != '\0' || line[i+buff_sz] != '\n') {
+        if (strncmp(&line[i], buff, buff_sz) == 0)
+            return i+buff_sz;
+        if (line[i] == '\0') return -1;
+        i++;
+    }
+    return -1;
 }
 
 #endif
